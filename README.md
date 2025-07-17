@@ -1,3 +1,3 @@
 # demo
-Fhis is my first git repository
+This is my first git repository
 Author - Pakala Puneeth
